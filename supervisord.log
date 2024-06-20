@@ -1,0 +1,1218 @@
+2024-06-14 16:41:59,140 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-14 16:41:59,150 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-14 16:41:59,150 INFO supervisord started with pid 1
+2024-06-14 16:42:00,154 INFO spawned: 'request-log_00' with pid 6
+2024-06-14 16:42:01,432 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 16:44:11,561 WARN received SIGQUIT indicating exit request
+2024-06-14 16:44:11,562 INFO waiting for request-log_00 to die
+2024-06-14 16:44:12,567 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-14 16:44:14,091 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-14 16:44:14,098 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-14 16:44:14,099 INFO supervisord started with pid 1
+2024-06-14 16:44:15,102 INFO spawned: 'request-log_00' with pid 14
+2024-06-14 16:44:16,280 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 16:44:24,289 WARN received SIGQUIT indicating exit request
+2024-06-14 16:44:24,289 INFO waiting for request-log_00 to die
+2024-06-14 16:44:24,292 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-14 16:44:25,779 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-14 16:44:25,786 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-14 16:44:25,787 INFO supervisord started with pid 1
+2024-06-14 16:44:26,790 INFO spawned: 'request-log_00' with pid 15
+2024-06-14 16:44:27,940 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 17:08:33,436 WARN received SIGQUIT indicating exit request
+2024-06-14 17:08:33,440 INFO waiting for request-log_00 to die
+2024-06-14 17:08:33,446 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-14 17:08:35,430 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-14 17:08:35,440 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-14 17:08:35,441 INFO supervisord started with pid 1
+2024-06-14 17:08:36,444 INFO spawned: 'request-log_00' with pid 15
+2024-06-14 17:08:37,643 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 17:08:47,652 WARN received SIGQUIT indicating exit request
+2024-06-14 17:08:47,652 INFO waiting for request-log_00 to die
+2024-06-14 17:08:48,657 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-14 17:08:50,144 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-14 17:08:50,153 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-14 17:08:50,154 INFO supervisord started with pid 1
+2024-06-14 17:08:51,157 INFO spawned: 'request-log_00' with pid 14
+2024-06-14 17:08:51,159 INFO spawned: 'request-log_01' with pid 15
+2024-06-14 17:08:51,161 INFO spawned: 'request-log_02' with pid 16
+2024-06-14 17:08:52,385 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 17:08:52,386 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 17:08:52,386 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:20:43,802 WARN received SIGQUIT indicating exit request
+2024-06-14 18:20:43,856 INFO waiting for request-log_00, request-log_01, request-log_02 to die
+2024-06-14 18:20:43,880 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-14 18:20:43,881 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-14 18:20:43,881 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-14 18:21:13,316 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-14 18:21:13,337 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-14 18:21:13,338 INFO supervisord started with pid 1
+2024-06-14 18:21:14,342 INFO spawned: 'request-log_00' with pid 6
+2024-06-14 18:21:14,346 INFO spawned: 'request-log_01' with pid 7
+2024-06-14 18:21:14,357 INFO spawned: 'request-log_02' with pid 8
+2024-06-14 18:21:15,360 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:15,360 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:15,361 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:16,712 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:21:16,713 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:21:16,713 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:21:17,717 INFO spawned: 'request-log_00' with pid 15
+2024-06-14 18:21:17,721 INFO spawned: 'request-log_01' with pid 16
+2024-06-14 18:21:17,737 INFO spawned: 'request-log_02' with pid 17
+2024-06-14 18:21:18,493 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:21:18,569 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:21:19,603 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:19,606 INFO spawned: 'request-log_01' with pid 24
+2024-06-14 18:21:19,614 INFO spawned: 'request-log_02' with pid 25
+2024-06-14 18:21:19,615 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:21:20,047 INFO spawned: 'request-log_00' with pid 30
+2024-06-14 18:21:20,225 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:21:20,525 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:21:21,589 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:21,589 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:21:22,594 INFO spawned: 'request-log_00' with pid 33
+2024-06-14 18:21:22,598 INFO spawned: 'request-log_01' with pid 34
+2024-06-14 18:21:22,602 INFO spawned: 'request-log_02' with pid 35
+2024-06-14 18:21:23,531 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:21:23,548 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:21:24,555 INFO spawned: 'request-log_00' with pid 42
+2024-06-14 18:21:24,556 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:24,558 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:21:24,926 INFO spawned: 'request-log_01' with pid 45
+2024-06-14 18:21:25,289 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:21:26,353 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:26,355 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:21:27,359 INFO spawned: 'request-log_00' with pid 48
+2024-06-14 18:21:27,364 INFO spawned: 'request-log_01' with pid 49
+2024-06-14 18:21:27,367 INFO spawned: 'request-log_02' with pid 50
+2024-06-14 18:21:27,851 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:21:27,923 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:21:28,966 INFO spawned: 'request-log_01' with pid 57
+2024-06-14 18:21:28,967 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:28,967 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:21:29,310 INFO spawned: 'request-log_02' with pid 60
+2024-06-14 18:21:29,635 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:21:30,692 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:30,693 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:21:31,696 INFO spawned: 'request-log_00' with pid 63
+2024-06-14 18:21:31,700 INFO spawned: 'request-log_01' with pid 64
+2024-06-14 18:21:31,703 INFO spawned: 'request-log_02' with pid 65
+2024-06-14 18:21:32,088 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:21:32,111 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:21:32,111 INFO gave up: request-log_00 entered FATAL state, too many start retries too quickly
+2024-06-14 18:21:33,115 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:33,118 INFO spawned: 'request-log_02' with pid 72
+2024-06-14 18:21:33,118 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:21:33,353 INFO spawned: 'request-log_01' with pid 75
+2024-06-14 18:21:33,585 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:21:34,630 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:34,630 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:21:35,633 INFO spawned: 'request-log_01' with pid 78
+2024-06-14 18:21:35,636 INFO spawned: 'request-log_02' with pid 79
+2024-06-14 18:21:35,980 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:21:37,005 INFO spawned: 'request-log_01' with pid 84
+2024-06-14 18:21:37,006 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:37,006 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:21:37,308 INFO spawned: 'request-log_02' with pid 87
+2024-06-14 18:21:38,654 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:21:38,655 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:39:42,735 WARN received SIGQUIT indicating exit request
+2024-06-14 18:39:42,755 INFO waiting for request-log_01, request-log_02 to die
+2024-06-14 18:39:42,768 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-14 18:39:42,769 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-14 18:40:04,723 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-14 18:40:04,738 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-14 18:40:04,739 INFO supervisord started with pid 1
+2024-06-14 18:40:05,743 INFO spawned: 'request-log_00' with pid 6
+2024-06-14 18:40:05,746 INFO spawned: 'request-log_01' with pid 7
+2024-06-14 18:40:05,757 INFO spawned: 'request-log_02' with pid 8
+2024-06-14 18:40:06,761 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:06,761 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:06,761 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:10,241 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:40:10,996 INFO spawned: 'request-log_02' with pid 15
+2024-06-14 18:40:11,076 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:40:11,080 INFO spawned: 'request-log_00' with pid 16
+2024-06-14 18:40:11,396 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:40:11,400 INFO spawned: 'request-log_01' with pid 21
+2024-06-14 18:40:11,464 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:40:11,746 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:40:12,811 INFO spawned: 'request-log_00' with pid 24
+2024-06-14 18:40:12,812 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:12,816 INFO spawned: 'request-log_02' with pid 25
+2024-06-14 18:40:12,821 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:40:13,125 INFO spawned: 'request-log_01' with pid 30
+2024-06-14 18:40:13,215 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:40:13,464 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:40:14,543 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:14,543 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:40:15,546 INFO spawned: 'request-log_00' with pid 33
+2024-06-14 18:40:15,549 INFO spawned: 'request-log_01' with pid 34
+2024-06-14 18:40:15,553 INFO spawned: 'request-log_02' with pid 35
+2024-06-14 18:40:15,880 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:40:15,880 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:40:16,898 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:16,900 INFO spawned: 'request-log_01' with pid 42
+2024-06-14 18:40:16,901 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:40:17,123 INFO spawned: 'request-log_00' with pid 45
+2024-06-14 18:40:17,373 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:40:18,415 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:18,415 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:40:19,419 INFO spawned: 'request-log_00' with pid 48
+2024-06-14 18:40:19,422 INFO spawned: 'request-log_01' with pid 49
+2024-06-14 18:40:19,425 INFO spawned: 'request-log_02' with pid 50
+2024-06-14 18:40:19,739 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:40:19,768 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:40:20,773 INFO spawned: 'request-log_00' with pid 57
+2024-06-14 18:40:20,773 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:20,774 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:40:21,048 INFO spawned: 'request-log_02' with pid 60
+2024-06-14 18:40:21,357 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:40:22,406 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:22,406 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:40:23,409 INFO spawned: 'request-log_00' with pid 63
+2024-06-14 18:40:23,412 INFO spawned: 'request-log_01' with pid 64
+2024-06-14 18:40:23,415 INFO spawned: 'request-log_02' with pid 65
+2024-06-14 18:40:23,743 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 18:40:23,818 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 18:40:24,825 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:24,828 INFO spawned: 'request-log_02' with pid 72
+2024-06-14 18:40:24,829 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 18:40:25,186 INFO spawned: 'request-log_01' with pid 75
+2024-06-14 18:40:26,570 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:26,572 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 18:40:27,577 INFO spawned: 'request-log_00' with pid 78
+2024-06-14 18:40:28,965 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:22,249 WARN received SIGQUIT indicating exit request
+2024-06-14 19:01:22,261 INFO waiting for request-log_00, request-log_01, request-log_02 to die
+2024-06-14 19:01:22,269 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-14 19:01:22,270 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-14 19:01:22,271 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-14 19:01:43,266 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-14 19:01:43,302 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-14 19:01:43,303 INFO supervisord started with pid 1
+2024-06-14 19:01:44,307 INFO spawned: 'request-log_00' with pid 6
+2024-06-14 19:01:44,311 INFO spawned: 'request-log_01' with pid 7
+2024-06-14 19:01:44,321 INFO spawned: 'request-log_02' with pid 8
+2024-06-14 19:01:46,227 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:46,228 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:46,228 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:46,228 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 19:01:46,228 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 19:01:46,228 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 19:01:47,233 INFO spawned: 'request-log_00' with pid 15
+2024-06-14 19:01:47,236 INFO spawned: 'request-log_01' with pid 16
+2024-06-14 19:01:47,248 INFO spawned: 'request-log_02' with pid 17
+2024-06-14 19:01:47,806 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 19:01:47,875 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 19:01:48,912 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:48,915 INFO spawned: 'request-log_01' with pid 24
+2024-06-14 19:01:48,918 INFO spawned: 'request-log_02' with pid 25
+2024-06-14 19:01:48,919 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 19:01:49,183 INFO spawned: 'request-log_00' with pid 30
+2024-06-14 19:01:49,250 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 19:01:49,498 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 19:01:50,535 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:50,536 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 19:01:51,539 INFO spawned: 'request-log_00' with pid 33
+2024-06-14 19:01:51,542 INFO spawned: 'request-log_01' with pid 34
+2024-06-14 19:01:51,545 INFO spawned: 'request-log_02' with pid 35
+2024-06-14 19:01:51,890 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 19:01:52,918 INFO spawned: 'request-log_00' with pid 42
+2024-06-14 19:01:52,919 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:52,919 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:52,919 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 19:01:52,919 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 19:01:53,192 INFO spawned: 'request-log_01' with pid 45
+2024-06-14 19:01:53,195 INFO spawned: 'request-log_02' with pid 46
+2024-06-14 19:01:53,581 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 19:01:53,675 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 19:01:54,699 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:54,703 INFO spawned: 'request-log_02' with pid 51
+2024-06-14 19:01:54,704 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 19:01:55,012 INFO spawned: 'request-log_01' with pid 54
+2024-06-14 19:01:55,399 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 19:01:56,464 INFO spawned: 'request-log_00' with pid 57
+2024-06-14 19:01:56,465 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:56,465 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 19:01:56,831 INFO spawned: 'request-log_01' with pid 60
+2024-06-14 19:01:57,196 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 19:01:58,250 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:58,253 INFO spawned: 'request-log_02' with pid 63
+2024-06-14 19:01:58,253 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 19:01:58,558 INFO spawned: 'request-log_01' with pid 66
+2024-06-14 19:01:58,849 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-14 19:01:59,896 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:01:59,896 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 19:02:00,902 INFO spawned: 'request-log_00' with pid 69
+2024-06-14 19:02:00,905 INFO spawned: 'request-log_01' with pid 70
+2024-06-14 19:02:01,240 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-14 19:02:01,241 INFO gave up: request-log_00 entered FATAL state, too many start retries too quickly
+2024-06-14 19:02:02,243 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:02:02,245 INFO spawned: 'request-log_02' with pid 75
+2024-06-14 19:02:02,245 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-14 19:02:02,453 INFO spawned: 'request-log_01' with pid 78
+2024-06-14 19:02:03,662 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 19:02:03,662 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 20:31:25,031 WARN received SIGQUIT indicating exit request
+2024-06-14 20:31:25,047 INFO waiting for request-log_01, request-log_02 to die
+2024-06-14 20:31:25,053 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-14 20:31:25,059 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-14 20:31:27,853 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-14 20:31:27,860 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-14 20:31:27,861 INFO supervisord started with pid 1
+2024-06-14 20:31:28,864 INFO spawned: 'request-log_00' with pid 7
+2024-06-14 20:31:28,867 INFO spawned: 'request-log_01' with pid 8
+2024-06-14 20:31:28,870 INFO spawned: 'request-log_02' with pid 9
+2024-06-14 20:31:29,873 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 20:31:29,873 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 20:31:29,873 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 20:33:55,339 WARN received SIGQUIT indicating exit request
+2024-06-14 20:33:55,343 INFO waiting for request-log_00, request-log_01, request-log_02 to die
+2024-06-14 20:33:55,350 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-14 20:33:55,350 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-14 20:33:55,353 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-14 20:33:57,814 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-14 20:33:57,821 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-14 20:33:57,823 INFO supervisord started with pid 1
+2024-06-14 20:33:58,826 INFO spawned: 'request-log_00' with pid 7
+2024-06-14 20:33:58,829 INFO spawned: 'request-log_01' with pid 8
+2024-06-14 20:33:58,832 INFO spawned: 'request-log_02' with pid 9
+2024-06-14 20:34:00,065 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 20:34:00,065 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 20:34:00,065 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-14 20:40:22,487 WARN received SIGQUIT indicating exit request
+2024-06-14 20:40:22,497 INFO waiting for request-log_00, request-log_01, request-log_02 to die
+2024-06-14 20:40:22,515 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-14 20:40:22,527 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-14 20:40:22,527 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-15 16:34:23,456 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-15 16:34:23,497 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-15 16:34:23,498 INFO supervisord started with pid 1
+2024-06-15 16:34:24,510 INFO spawned: 'request-log_00' with pid 6
+2024-06-15 16:34:24,517 INFO spawned: 'request-log_01' with pid 7
+2024-06-15 16:34:24,527 INFO spawned: 'request-log_02' with pid 8
+2024-06-15 16:34:26,258 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:26,258 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:26,258 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:26,258 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-15 16:34:26,258 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-15 16:34:26,258 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-15 16:34:27,262 INFO spawned: 'request-log_00' with pid 15
+2024-06-15 16:34:27,266 INFO spawned: 'request-log_01' with pid 16
+2024-06-15 16:34:27,273 INFO spawned: 'request-log_02' with pid 17
+2024-06-15 16:34:27,721 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-15 16:34:28,795 INFO spawned: 'request-log_00' with pid 24
+2024-06-15 16:34:28,796 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:28,796 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:28,796 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-15 16:34:28,797 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-15 16:34:29,079 INFO spawned: 'request-log_01' with pid 27
+2024-06-15 16:34:29,082 INFO spawned: 'request-log_02' with pid 28
+2024-06-15 16:34:29,376 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-15 16:34:29,446 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-15 16:34:30,454 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:30,456 INFO spawned: 'request-log_02' with pid 33
+2024-06-15 16:34:30,457 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-15 16:34:30,688 INFO spawned: 'request-log_01' with pid 36
+2024-06-15 16:34:30,879 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-15 16:34:31,918 INFO spawned: 'request-log_00' with pid 39
+2024-06-15 16:34:31,919 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:31,919 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-15 16:34:32,147 INFO spawned: 'request-log_01' with pid 42
+2024-06-15 16:34:32,374 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-15 16:34:33,421 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:33,423 INFO spawned: 'request-log_02' with pid 45
+2024-06-15 16:34:33,423 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-15 16:34:33,622 INFO spawned: 'request-log_01' with pid 48
+2024-06-15 16:34:33,849 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-15 16:34:34,894 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:34,895 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-15 16:34:35,898 INFO spawned: 'request-log_00' with pid 51
+2024-06-15 16:34:35,901 INFO spawned: 'request-log_01' with pid 52
+2024-06-15 16:34:36,188 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-15 16:34:37,191 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:37,193 INFO spawned: 'request-log_01' with pid 57
+2024-06-15 16:34:37,196 INFO spawned: 'request-log_02' with pid 58
+2024-06-15 16:34:37,201 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-15 16:34:37,408 INFO spawned: 'request-log_00' with pid 63
+2024-06-15 16:34:37,478 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-15 16:34:37,653 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-15 16:34:37,667 INFO gave up: request-log_02 entered FATAL state, too many start retries too quickly
+2024-06-15 16:34:38,691 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:38,691 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-15 16:34:39,694 INFO spawned: 'request-log_00' with pid 66
+2024-06-15 16:34:39,696 INFO spawned: 'request-log_01' with pid 67
+2024-06-15 16:34:40,916 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:34:40,917 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-15 16:38:01,113 WARN received SIGQUIT indicating exit request
+2024-06-15 16:38:01,114 INFO waiting for request-log_00, request-log_01 to die
+2024-06-15 16:38:01,120 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-15 16:38:02,122 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 13:48:34,854 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 13:48:34,862 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 13:48:34,862 INFO supervisord started with pid 1
+2024-06-18 13:48:35,864 INFO spawned: 'request-log_00' with pid 7
+2024-06-18 13:48:35,866 INFO spawned: 'request-log_01' with pid 8
+2024-06-18 13:48:35,868 INFO spawned: 'request-log_02' with pid 9
+2024-06-18 13:48:35,870 INFO spawned: 'truncate-table_00' with pid 10
+2024-06-18 13:48:36,046 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 13:48:37,073 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 13:48:37,073 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 13:48:37,073 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 13:48:37,075 INFO spawned: 'truncate-table_00' with pid 19
+2024-06-18 13:48:38,217 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 13:48:38,218 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 13:48:39,221 INFO spawned: 'truncate-table_00' with pid 22
+2024-06-18 13:48:40,379 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 13:48:40,379 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 13:48:41,384 INFO spawned: 'truncate-table_00' with pid 25
+2024-06-18 13:48:42,560 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 13:48:42,560 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 13:48:43,562 INFO spawned: 'truncate-table_00' with pid 28
+2024-06-18 13:48:44,739 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 13:48:44,740 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 13:48:45,742 INFO spawned: 'truncate-table_00' with pid 31
+2024-06-18 13:48:46,832 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 13:48:46,832 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 13:48:47,835 INFO spawned: 'truncate-table_00' with pid 34
+2024-06-18 13:48:48,981 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 13:48:48,981 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 13:48:49,984 INFO spawned: 'truncate-table_00' with pid 37
+2024-06-18 13:48:51,132 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 13:48:51,132 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 13:48:52,135 INFO spawned: 'truncate-table_00' with pid 40
+2024-06-18 13:48:52,135 WARN received SIGQUIT indicating exit request
+2024-06-18 13:48:52,135 INFO waiting for request-log_00, request-log_01, request-log_02, truncate-table_00 to die
+2024-06-18 13:48:53,237 WARN stopped: truncate-table_00 (exit status 1)
+2024-06-18 13:48:53,240 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 13:48:53,240 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 13:48:53,240 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:00:37,979 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:00:37,985 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:00:37,985 INFO supervisord started with pid 7
+2024-06-18 14:00:38,987 INFO spawned: 'request-log_00' with pid 8
+2024-06-18 14:00:38,989 INFO spawned: 'request-log_01' with pid 9
+2024-06-18 14:00:38,991 INFO spawned: 'request-log_02' with pid 10
+2024-06-18 14:00:38,993 INFO spawned: 'truncate-table_00' with pid 11
+2024-06-18 14:00:39,138 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:00:40,153 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:40,153 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:40,153 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:40,155 INFO spawned: 'truncate-table_00' with pid 20
+2024-06-18 14:00:41,263 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:41,263 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:00:42,265 INFO spawned: 'truncate-table_00' with pid 23
+2024-06-18 14:00:43,423 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:43,423 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:00:44,425 INFO spawned: 'truncate-table_00' with pid 26
+2024-06-18 14:00:45,515 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:45,515 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:00:46,517 INFO spawned: 'truncate-table_00' with pid 29
+2024-06-18 14:00:47,623 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:47,623 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:00:48,625 INFO spawned: 'truncate-table_00' with pid 32
+2024-06-18 14:00:49,720 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:49,721 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:00:50,723 INFO spawned: 'truncate-table_00' with pid 35
+2024-06-18 14:00:51,817 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:51,817 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:00:52,819 INFO spawned: 'truncate-table_00' with pid 38
+2024-06-18 14:00:53,928 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:53,928 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:00:54,931 INFO spawned: 'truncate-table_00' with pid 41
+2024-06-18 14:00:56,021 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:56,021 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:00:57,024 INFO spawned: 'truncate-table_00' with pid 44
+2024-06-18 14:00:58,109 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:00:58,109 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:00:59,111 INFO spawned: 'truncate-table_00' with pid 47
+2024-06-18 14:01:00,220 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:00,220 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:01:01,222 INFO spawned: 'truncate-table_00' with pid 50
+2024-06-18 14:01:02,311 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:02,311 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:01:03,313 INFO spawned: 'truncate-table_00' with pid 53
+2024-06-18 14:01:04,410 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:04,410 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:01:05,412 INFO spawned: 'truncate-table_00' with pid 56
+2024-06-18 14:01:06,516 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:06,516 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:01:07,518 INFO spawned: 'truncate-table_00' with pid 59
+2024-06-18 14:01:08,613 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:08,614 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:01:09,616 INFO spawned: 'truncate-table_00' with pid 62
+2024-06-18 14:01:10,728 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:10,728 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:01:11,731 INFO spawned: 'truncate-table_00' with pid 65
+2024-06-18 14:01:53,213 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:01:53,217 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:01:53,218 INFO supervisord started with pid 7
+2024-06-18 14:01:54,220 INFO spawned: 'request-log_00' with pid 8
+2024-06-18 14:01:54,222 INFO spawned: 'request-log_01' with pid 9
+2024-06-18 14:01:54,224 INFO spawned: 'request-log_02' with pid 10
+2024-06-18 14:01:54,226 INFO spawned: 'truncate-table_00' with pid 11
+2024-06-18 14:01:55,376 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:55,376 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:55,377 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:55,377 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:55,377 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:01:56,379 INFO spawned: 'truncate-table_00' with pid 20
+2024-06-18 14:01:57,483 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:57,483 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:01:58,485 INFO spawned: 'truncate-table_00' with pid 23
+2024-06-18 14:01:59,588 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:01:59,588 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:00,590 INFO spawned: 'truncate-table_00' with pid 26
+2024-06-18 14:02:01,689 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:01,689 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:02,691 INFO spawned: 'truncate-table_00' with pid 29
+2024-06-18 14:02:03,850 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:03,851 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:04,854 INFO spawned: 'truncate-table_00' with pid 32
+2024-06-18 14:02:06,034 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:06,034 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:07,036 INFO spawned: 'truncate-table_00' with pid 35
+2024-06-18 14:02:08,139 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:08,139 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:09,141 INFO spawned: 'truncate-table_00' with pid 38
+2024-06-18 14:02:10,235 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:10,235 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:11,237 INFO spawned: 'truncate-table_00' with pid 41
+2024-06-18 14:02:12,330 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:12,330 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:13,333 INFO spawned: 'truncate-table_00' with pid 44
+2024-06-18 14:02:14,430 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:14,431 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:15,433 INFO spawned: 'truncate-table_00' with pid 47
+2024-06-18 14:02:16,597 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:16,597 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:17,600 INFO spawned: 'truncate-table_00' with pid 50
+2024-06-18 14:02:18,748 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:18,749 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:19,752 INFO spawned: 'truncate-table_00' with pid 53
+2024-06-18 14:02:20,933 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:20,933 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:21,936 INFO spawned: 'truncate-table_00' with pid 56
+2024-06-18 14:02:23,122 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:23,122 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:24,124 INFO spawned: 'truncate-table_00' with pid 59
+2024-06-18 14:02:25,311 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:25,312 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:26,316 INFO spawned: 'truncate-table_00' with pid 62
+2024-06-18 14:02:27,544 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:27,545 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:28,551 INFO spawned: 'truncate-table_00' with pid 65
+2024-06-18 14:02:29,754 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:29,754 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:30,756 INFO spawned: 'truncate-table_00' with pid 68
+2024-06-18 14:02:31,850 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:31,850 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:32,853 INFO spawned: 'truncate-table_00' with pid 71
+2024-06-18 14:02:34,013 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:34,014 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:35,016 INFO spawned: 'truncate-table_00' with pid 74
+2024-06-18 14:02:36,150 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:36,150 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:37,153 INFO spawned: 'truncate-table_00' with pid 77
+2024-06-18 14:02:38,310 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:38,310 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:39,312 INFO spawned: 'truncate-table_00' with pid 80
+2024-06-18 14:02:40,394 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:40,394 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:41,396 INFO spawned: 'truncate-table_00' with pid 83
+2024-06-18 14:02:42,519 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:42,519 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:43,521 INFO spawned: 'truncate-table_00' with pid 86
+2024-06-18 14:02:44,607 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:44,607 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:45,609 INFO spawned: 'truncate-table_00' with pid 89
+2024-06-18 14:02:46,732 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:46,732 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:47,734 INFO spawned: 'truncate-table_00' with pid 92
+2024-06-18 14:02:48,820 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:48,820 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:49,822 INFO spawned: 'truncate-table_00' with pid 95
+2024-06-18 14:02:50,922 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:50,922 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:51,925 INFO spawned: 'truncate-table_00' with pid 98
+2024-06-18 14:02:53,049 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:53,049 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:54,052 INFO spawned: 'truncate-table_00' with pid 101
+2024-06-18 14:02:55,159 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:55,159 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:56,161 INFO spawned: 'truncate-table_00' with pid 104
+2024-06-18 14:02:57,281 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:57,281 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:02:58,284 INFO spawned: 'truncate-table_00' with pid 107
+2024-06-18 14:02:59,397 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:02:59,397 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:00,400 INFO spawned: 'truncate-table_00' with pid 110
+2024-06-18 14:03:01,497 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:01,498 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:02,500 INFO spawned: 'truncate-table_00' with pid 113
+2024-06-18 14:03:03,599 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:03,599 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:04,601 INFO spawned: 'truncate-table_00' with pid 116
+2024-06-18 14:03:05,703 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:05,703 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:06,705 INFO spawned: 'truncate-table_00' with pid 119
+2024-06-18 14:03:07,802 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:07,802 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:09,559 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:03:09,564 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:03:09,564 INFO supervisord started with pid 7
+2024-06-18 14:03:10,568 INFO spawned: 'request-log_00' with pid 8
+2024-06-18 14:03:10,570 INFO spawned: 'request-log_01' with pid 9
+2024-06-18 14:03:10,572 INFO spawned: 'request-log_02' with pid 10
+2024-06-18 14:03:10,574 INFO spawned: 'truncate-table_00' with pid 11
+2024-06-18 14:03:10,707 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:11,723 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:11,723 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:11,723 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:11,724 INFO spawned: 'truncate-table_00' with pid 20
+2024-06-18 14:03:12,834 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:12,834 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:13,836 INFO spawned: 'truncate-table_00' with pid 23
+2024-06-18 14:03:14,931 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:14,931 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:15,933 INFO spawned: 'truncate-table_00' with pid 26
+2024-06-18 14:03:17,060 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:17,060 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:18,063 INFO spawned: 'truncate-table_00' with pid 29
+2024-06-18 14:03:19,182 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:19,182 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:20,185 INFO spawned: 'truncate-table_00' with pid 32
+2024-06-18 14:03:21,312 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:21,312 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:22,316 INFO spawned: 'truncate-table_00' with pid 35
+2024-06-18 14:03:23,503 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:23,503 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:24,505 INFO spawned: 'truncate-table_00' with pid 38
+2024-06-18 14:03:25,641 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:25,641 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:26,645 INFO spawned: 'truncate-table_00' with pid 41
+2024-06-18 14:03:27,801 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:27,802 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:28,804 INFO spawned: 'truncate-table_00' with pid 44
+2024-06-18 14:03:29,909 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:29,909 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:30,912 INFO spawned: 'truncate-table_00' with pid 47
+2024-06-18 14:03:32,029 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:32,029 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:33,032 INFO spawned: 'truncate-table_00' with pid 50
+2024-06-18 14:03:34,180 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:34,180 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:35,183 INFO spawned: 'truncate-table_00' with pid 53
+2024-06-18 14:03:36,314 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:36,314 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:37,316 INFO spawned: 'truncate-table_00' with pid 56
+2024-06-18 14:03:38,412 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:38,412 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:39,415 INFO spawned: 'truncate-table_00' with pid 59
+2024-06-18 14:03:40,504 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:40,504 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:41,506 INFO spawned: 'truncate-table_00' with pid 62
+2024-06-18 14:03:42,599 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:42,599 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:43,602 INFO spawned: 'truncate-table_00' with pid 65
+2024-06-18 14:03:44,765 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:03:44,765 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:03:45,767 INFO spawned: 'truncate-table_00' with pid 68
+2024-06-18 14:05:21,677 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:05:21,685 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:05:21,687 INFO supervisord started with pid 16
+2024-06-18 14:05:22,690 INFO spawned: 'request-log_00' with pid 17
+2024-06-18 14:05:22,693 INFO spawned: 'request-log_01' with pid 18
+2024-06-18 14:05:22,695 INFO spawned: 'request-log_02' with pid 19
+2024-06-18 14:05:22,698 INFO spawned: 'truncate-table_00' with pid 20
+2024-06-18 14:05:23,909 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:23,910 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:23,910 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:23,910 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:23,910 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:05:24,913 INFO spawned: 'truncate-table_00' with pid 29
+2024-06-18 14:05:24,914 WARN received SIGINT indicating exit request
+2024-06-18 14:05:24,915 INFO waiting for request-log_00, request-log_01, request-log_02, truncate-table_00 to die
+2024-06-18 14:05:26,074 WARN stopped: truncate-table_00 (exit status 1)
+2024-06-18 14:05:26,081 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:05:26,081 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:05:26,081 WARN received SIGINT indicating exit request
+2024-06-18 14:05:26,084 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:05:31,271 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:05:31,277 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:05:31,277 INFO supervisord started with pid 32
+2024-06-18 14:05:32,281 INFO spawned: 'request-log_00' with pid 33
+2024-06-18 14:05:32,283 INFO spawned: 'request-log_01' with pid 34
+2024-06-18 14:05:32,286 INFO spawned: 'request-log_02' with pid 35
+2024-06-18 14:05:32,289 INFO spawned: 'truncate-table_00' with pid 36
+2024-06-18 14:05:33,500 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:33,500 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:33,500 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:33,500 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:33,500 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:05:34,503 INFO spawned: 'truncate-table_00' with pid 45
+2024-06-18 14:05:34,503 WARN received SIGINT indicating exit request
+2024-06-18 14:05:34,504 INFO waiting for request-log_00, request-log_01, request-log_02, truncate-table_00 to die
+2024-06-18 14:05:35,653 WARN stopped: truncate-table_00 (exit status 1)
+2024-06-18 14:05:35,657 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:05:35,657 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:05:35,657 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:05:35,657 WARN received SIGINT indicating exit request
+2024-06-18 14:05:55,136 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:05:55,140 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:05:55,140 INFO supervisord started with pid 49
+2024-06-18 14:05:56,144 INFO spawned: 'request-log_00' with pid 50
+2024-06-18 14:05:56,147 INFO spawned: 'request-log_01' with pid 51
+2024-06-18 14:05:56,150 INFO spawned: 'request-log_02' with pid 52
+2024-06-18 14:05:56,153 INFO spawned: 'truncate-table_00' with pid 53
+2024-06-18 14:05:57,360 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:57,360 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:57,361 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:57,361 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:05:57,361 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:05:58,364 INFO spawned: 'truncate-table_00' with pid 62
+2024-06-18 14:05:58,365 WARN received SIGINT indicating exit request
+2024-06-18 14:05:58,365 INFO waiting for request-log_00, request-log_01, request-log_02, truncate-table_00 to die
+2024-06-18 14:05:59,538 WARN stopped: truncate-table_00 (exit status 1)
+2024-06-18 14:05:59,541 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:05:59,544 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:05:59,544 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:06:07,221 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:06:07,226 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:06:07,226 INFO supervisord started with pid 65
+2024-06-18 14:06:08,229 INFO spawned: 'request-log_00' with pid 66
+2024-06-18 14:06:08,232 INFO spawned: 'request-log_01' with pid 67
+2024-06-18 14:06:08,236 INFO spawned: 'request-log_02' with pid 68
+2024-06-18 14:06:08,238 INFO spawned: 'truncate-table_00' with pid 69
+2024-06-18 14:06:08,445 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:06:09,468 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:06:09,468 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:06:09,468 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:06:09,470 INFO spawned: 'truncate-table_00' with pid 78
+2024-06-18 14:06:10,629 INFO success: truncate-table_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:06:10,630 WARN exited: truncate-table_00 (exit status 1; not expected)
+2024-06-18 14:06:11,632 INFO spawned: 'truncate-table_00' with pid 81
+2024-06-18 14:06:11,633 WARN received SIGINT indicating exit request
+2024-06-18 14:06:11,634 INFO waiting for request-log_00, request-log_01, request-log_02, truncate-table_00 to die
+2024-06-18 14:06:12,791 WARN stopped: truncate-table_00 (exit status 1)
+2024-06-18 14:06:12,795 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:06:12,797 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:06:12,798 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:09:08,359 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:09:08,364 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:09:08,364 INFO supervisord started with pid 1
+2024-06-18 14:09:09,371 INFO spawnerr: can't find command 'systemctl'
+2024-06-18 14:09:09,375 INFO spawned: 'request-log_00' with pid 7
+2024-06-18 14:09:09,377 INFO spawned: 'request-log_01' with pid 8
+2024-06-18 14:09:09,379 INFO spawned: 'request-log_02' with pid 9
+2024-06-18 14:09:10,565 INFO spawnerr: can't find command 'systemctl'
+2024-06-18 14:09:10,565 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:09:10,565 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:09:10,565 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:09:12,568 INFO spawnerr: can't find command 'systemctl'
+2024-06-18 14:09:15,571 INFO spawnerr: can't find command 'systemctl'
+2024-06-18 14:09:15,571 INFO gave up: php-fpm entered FATAL state, too many start retries too quickly
+2024-06-18 14:10:04,621 WARN received SIGQUIT indicating exit request
+2024-06-18 14:10:04,621 INFO waiting for request-log_00, request-log_01, request-log_02 to die
+2024-06-18 14:10:04,624 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:10:04,624 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:10:04,624 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:10:05,755 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:10:05,762 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:10:05,762 INFO supervisord started with pid 1
+2024-06-18 14:10:06,764 INFO spawned: 'php-fpm' with pid 15
+2024-06-18 14:10:06,766 INFO spawned: 'request-log_00' with pid 16
+2024-06-18 14:10:06,767 INFO spawned: 'request-log_01' with pid 17
+2024-06-18 14:10:06,769 INFO spawned: 'request-log_02' with pid 18
+2024-06-18 14:10:07,929 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:10:07,929 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:10:07,929 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:10:07,929 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:11:29,645 WARN received SIGQUIT indicating exit request
+2024-06-18 14:11:29,646 INFO waiting for php-fpm, request-log_00, request-log_01, request-log_02 to die
+2024-06-18 14:11:29,650 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:11:29,650 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:11:29,651 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:11:29,661 INFO stopped: php-fpm (exit status 0)
+2024-06-18 14:11:30,577 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:11:30,580 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:11:30,581 INFO supervisord started with pid 1
+2024-06-18 14:11:31,590 INFO spawned: 'cron' with pid 14
+2024-06-18 14:11:31,593 INFO spawned: 'php-fpm' with pid 15
+2024-06-18 14:11:31,595 INFO spawned: 'request-log_00' with pid 16
+2024-06-18 14:11:31,597 INFO spawned: 'request-log_01' with pid 17
+2024-06-18 14:11:31,598 INFO spawned: 'request-log_02' with pid 19
+2024-06-18 14:11:31,600 WARN exited: cron (exit status 0; not expected)
+2024-06-18 14:11:32,714 INFO spawned: 'cron' with pid 28
+2024-06-18 14:11:32,714 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:11:32,714 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:11:32,714 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:11:32,714 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:11:32,725 WARN exited: cron (exit status 1; not expected)
+2024-06-18 14:11:34,729 INFO spawned: 'cron' with pid 29
+2024-06-18 14:11:34,732 WARN exited: cron (exit status 1; not expected)
+2024-06-18 14:11:37,737 INFO spawned: 'cron' with pid 30
+2024-06-18 14:11:37,741 WARN exited: cron (exit status 1; not expected)
+2024-06-18 14:11:38,741 INFO gave up: cron entered FATAL state, too many start retries too quickly
+2024-06-18 14:12:00,760 WARN received SIGQUIT indicating exit request
+2024-06-18 14:12:00,761 INFO waiting for php-fpm, request-log_00, request-log_01, request-log_02 to die
+2024-06-18 14:12:00,764 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:12:00,764 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:12:00,764 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:12:00,769 INFO stopped: php-fpm (exit status 0)
+2024-06-18 14:12:01,808 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:12:01,814 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:12:01,814 INFO supervisord started with pid 1
+2024-06-18 14:12:02,817 INFO spawned: 'cron' with pid 14
+2024-06-18 14:12:02,819 INFO spawned: 'php-fpm' with pid 15
+2024-06-18 14:12:02,822 INFO spawned: 'request-log_00' with pid 16
+2024-06-18 14:12:02,824 INFO spawned: 'request-log_01' with pid 17
+2024-06-18 14:12:02,826 INFO spawned: 'request-log_02' with pid 18
+2024-06-18 14:12:04,025 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:12:04,025 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:12:04,025 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:12:04,025 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:12:04,025 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:13:55,037 WARN received SIGQUIT indicating exit request
+2024-06-18 14:13:55,037 INFO waiting for cron, php-fpm, request-log_00, request-log_01, request-log_02 to die
+2024-06-18 14:13:55,040 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:13:55,040 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:13:55,040 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:13:55,046 INFO stopped: php-fpm (exit status 0)
+2024-06-18 14:13:55,046 WARN stopped: cron (terminated by SIGTERM)
+2024-06-18 14:13:56,138 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:13:56,144 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:13:56,144 INFO supervisord started with pid 1
+2024-06-18 14:13:57,146 INFO spawned: 'crontab' with pid 15
+2024-06-18 14:13:57,148 INFO spawned: 'php-fpm' with pid 16
+2024-06-18 14:13:57,150 INFO spawned: 'request-log_00' with pid 17
+2024-06-18 14:13:57,152 INFO spawned: 'request-log_01' with pid 18
+2024-06-18 14:13:57,154 INFO spawned: 'request-log_02' with pid 19
+2024-06-18 14:13:57,160 WARN exited: crontab (exit status 1; not expected)
+2024-06-18 14:13:58,303 INFO spawned: 'crontab' with pid 28
+2024-06-18 14:13:58,304 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:13:58,304 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:13:58,304 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:13:58,304 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:13:58,308 WARN exited: crontab (exit status 1; not expected)
+2024-06-18 14:14:00,312 INFO spawned: 'crontab' with pid 29
+2024-06-18 14:14:00,316 WARN exited: crontab (exit status 1; not expected)
+2024-06-18 14:14:03,320 INFO spawned: 'crontab' with pid 30
+2024-06-18 14:14:03,324 WARN exited: crontab (exit status 1; not expected)
+2024-06-18 14:14:03,324 INFO gave up: crontab entered FATAL state, too many start retries too quickly
+2024-06-18 14:20:08,681 WARN received SIGQUIT indicating exit request
+2024-06-18 14:20:08,681 INFO waiting for php-fpm, request-log_00, request-log_01, request-log_02 to die
+2024-06-18 14:20:08,684 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:20:08,684 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:20:08,684 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:20:08,688 INFO stopped: php-fpm (exit status 0)
+2024-06-18 14:20:09,727 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:20:09,731 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:20:09,731 INFO supervisord started with pid 1
+2024-06-18 14:20:10,733 INFO spawned: 'crontab' with pid 6
+2024-06-18 14:20:10,735 INFO spawned: 'php-fpm' with pid 7
+2024-06-18 14:20:10,737 INFO spawned: 'request-log_00' with pid 8
+2024-06-18 14:20:10,739 INFO spawned: 'request-log_01' with pid 9
+2024-06-18 14:20:10,741 INFO spawned: 'request-log_02' with pid 10
+2024-06-18 14:20:10,741 WARN exited: crontab (exit status 1; not expected)
+2024-06-18 14:20:11,876 INFO spawned: 'crontab' with pid 19
+2024-06-18 14:20:11,876 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:20:11,876 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:20:11,876 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:20:11,876 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:20:11,880 WARN exited: crontab (exit status 1; not expected)
+2024-06-18 14:20:13,883 INFO spawned: 'crontab' with pid 20
+2024-06-18 14:20:13,887 WARN exited: crontab (exit status 1; not expected)
+2024-06-18 14:20:16,891 INFO spawned: 'crontab' with pid 21
+2024-06-18 14:20:16,895 WARN exited: crontab (exit status 1; not expected)
+2024-06-18 14:20:16,895 INFO gave up: crontab entered FATAL state, too many start retries too quickly
+2024-06-18 14:20:22,901 WARN received SIGQUIT indicating exit request
+2024-06-18 14:20:22,901 INFO waiting for php-fpm, request-log_00, request-log_01, request-log_02 to die
+2024-06-18 14:20:22,904 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:20:22,904 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:20:22,905 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:20:22,909 INFO stopped: php-fpm (exit status 0)
+2024-06-18 14:20:23,810 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:20:23,813 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:20:23,813 INFO supervisord started with pid 1
+2024-06-18 14:20:24,816 INFO spawned: 'crontab' with pid 7
+2024-06-18 14:20:24,819 INFO spawned: 'php-fpm' with pid 8
+2024-06-18 14:20:24,821 INFO spawned: 'request-log_00' with pid 9
+2024-06-18 14:20:24,822 INFO spawned: 'request-log_01' with pid 10
+2024-06-18 14:20:24,824 INFO spawned: 'request-log_02' with pid 11
+2024-06-18 14:20:25,955 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:20:25,955 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:20:25,955 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:20:25,955 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:20:25,955 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:27:55,398 WARN received SIGQUIT indicating exit request
+2024-06-18 14:27:55,401 INFO waiting for crontab, php-fpm, request-log_00, request-log_01, request-log_02 to die
+2024-06-18 14:27:55,405 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:27:55,405 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:27:55,405 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:27:55,415 INFO stopped: php-fpm (exit status 0)
+2024-06-18 14:27:55,415 WARN stopped: crontab (terminated by SIGTERM)
+2024-06-18 14:27:56,572 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:27:56,576 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:27:56,576 INFO supervisord started with pid 1
+2024-06-18 14:27:57,579 INFO spawned: 'crontab' with pid 13
+2024-06-18 14:27:57,580 INFO spawned: 'php-fpm' with pid 14
+2024-06-18 14:27:57,582 INFO spawned: 'request-log_00' with pid 15
+2024-06-18 14:27:57,583 INFO spawned: 'request-log_01' with pid 16
+2024-06-18 14:27:57,585 INFO spawned: 'request-log_02' with pid 17
+2024-06-18 14:27:58,748 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:27:58,748 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:27:58,748 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:27:58,748 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:27:58,748 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:29:10,820 WARN received SIGQUIT indicating exit request
+2024-06-18 14:29:10,820 INFO waiting for crontab, php-fpm, request-log_00, request-log_01, request-log_02 to die
+2024-06-18 14:29:10,823 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:29:10,823 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:29:10,824 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:29:10,828 INFO stopped: php-fpm (exit status 0)
+2024-06-18 14:29:10,829 WARN stopped: crontab (terminated by SIGTERM)
+2024-06-18 14:29:11,778 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:29:11,781 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:29:11,781 INFO supervisord started with pid 1
+2024-06-18 14:29:12,785 INFO spawned: 'crontab' with pid 7
+2024-06-18 14:29:12,787 INFO spawned: 'php-fpm' with pid 8
+2024-06-18 14:29:12,790 INFO spawned: 'request-log_00' with pid 9
+2024-06-18 14:29:12,792 INFO spawned: 'request-log_01' with pid 10
+2024-06-18 14:29:12,794 INFO spawned: 'request-log_02' with pid 11
+2024-06-18 14:29:13,980 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:29:13,980 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:29:13,980 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:29:13,980 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:29:13,980 INFO success: request-log_02 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:03,444 WARN received SIGQUIT indicating exit request
+2024-06-18 14:36:03,446 INFO waiting for crontab, php-fpm, request-log_00, request-log_01, request-log_02 to die
+2024-06-18 14:36:03,454 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 14:36:03,454 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 14:36:03,454 WARN stopped: request-log_02 (terminated by SIGTERM)
+2024-06-18 14:36:03,466 INFO stopped: php-fpm (exit status 0)
+2024-06-18 14:36:03,466 WARN stopped: crontab (terminated by SIGTERM)
+2024-06-18 14:36:04,536 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 14:36:04,542 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 14:36:04,542 INFO supervisord started with pid 1
+2024-06-18 14:36:05,544 INFO spawned: 'crontab' with pid 14
+2024-06-18 14:36:05,546 INFO spawned: 'php-fpm' with pid 15
+2024-06-18 14:36:05,548 INFO spawned: 'request-log_00' with pid 16
+2024-06-18 14:36:05,550 INFO spawned: 'request-log_01' with pid 17
+2024-06-18 14:36:05,551 INFO spawned: 'request-log_02' with pid 18
+2024-06-18 14:36:05,743 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-18 14:36:05,783 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:06,795 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:06,795 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:06,795 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:06,796 INFO spawned: 'request-log_01' with pid 27
+2024-06-18 14:36:06,798 INFO spawned: 'request-log_02' with pid 28
+2024-06-18 14:36:06,798 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-18 14:36:06,908 INFO spawned: 'request-log_00' with pid 33
+2024-06-18 14:36:06,957 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-18 14:36:07,028 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:08,109 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:08,109 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-18 14:36:09,112 INFO spawned: 'request-log_00' with pid 36
+2024-06-18 14:36:09,113 INFO spawned: 'request-log_01' with pid 37
+2024-06-18 14:36:09,115 INFO spawned: 'request-log_02' with pid 38
+2024-06-18 14:36:09,273 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-18 14:36:09,293 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-18 14:36:10,307 INFO spawned: 'request-log_00' with pid 45
+2024-06-18 14:36:10,308 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:10,308 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:10,392 INFO spawned: 'request-log_01' with pid 48
+2024-06-18 14:36:10,482 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-18 14:36:11,545 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:11,545 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:12,548 INFO spawned: 'request-log_00' with pid 51
+2024-06-18 14:36:12,549 INFO spawned: 'request-log_01' with pid 52
+2024-06-18 14:36:12,550 INFO spawned: 'request-log_02' with pid 53
+2024-06-18 14:36:12,697 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-18 14:36:12,723 WARN exited: request-log_02 (exit status 1; not expected)
+2024-06-18 14:36:12,726 INFO gave up: request-log_02 entered FATAL state, too many start retries too quickly
+2024-06-18 14:36:13,735 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:13,735 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:14,736 INFO spawned: 'request-log_01' with pid 60
+2024-06-18 14:36:15,889 INFO spawned: 'request-log_00' with pid 63
+2024-06-18 14:36:15,890 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:15,890 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:15,984 INFO spawned: 'request-log_01' with pid 66
+2024-06-18 14:36:16,090 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-18 14:36:16,096 INFO gave up: request-log_00 entered FATAL state, too many start retries too quickly
+2024-06-18 14:36:17,188 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:17,188 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:18,190 INFO spawned: 'request-log_01' with pid 69
+2024-06-18 14:36:19,345 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:19,345 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:20,348 INFO spawned: 'request-log_01' with pid 72
+2024-06-18 14:36:21,512 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:21,512 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:22,515 INFO spawned: 'request-log_01' with pid 75
+2024-06-18 14:36:23,668 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:23,668 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:24,671 INFO spawned: 'request-log_01' with pid 78
+2024-06-18 14:36:25,855 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:25,855 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:26,858 INFO spawned: 'request-log_01' with pid 81
+2024-06-18 14:36:28,031 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:28,031 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:29,032 INFO spawned: 'request-log_01' with pid 84
+2024-06-18 14:36:30,302 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:30,302 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:31,304 INFO spawned: 'request-log_01' with pid 87
+2024-06-18 14:36:32,461 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:32,461 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:33,464 INFO spawned: 'request-log_01' with pid 90
+2024-06-18 14:36:34,641 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:34,641 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:35,644 INFO spawned: 'request-log_01' with pid 93
+2024-06-18 14:36:36,888 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:36,888 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:37,892 INFO spawned: 'request-log_01' with pid 96
+2024-06-18 14:36:39,242 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:39,243 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:40,245 INFO spawned: 'request-log_01' with pid 99
+2024-06-18 14:36:41,413 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:41,413 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:42,416 INFO spawned: 'request-log_01' with pid 102
+2024-06-18 14:36:43,577 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:43,577 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:44,580 INFO spawned: 'request-log_01' with pid 105
+2024-06-18 14:36:45,791 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:45,791 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:46,793 INFO spawned: 'request-log_01' with pid 108
+2024-06-18 14:36:47,985 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:47,985 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:48,987 INFO spawned: 'request-log_01' with pid 111
+2024-06-18 14:36:50,167 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:50,167 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:51,169 INFO spawned: 'request-log_01' with pid 114
+2024-06-18 14:36:52,344 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:52,345 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:53,347 INFO spawned: 'request-log_01' with pid 117
+2024-06-18 14:36:54,649 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:54,649 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:55,651 INFO spawned: 'request-log_01' with pid 120
+2024-06-18 14:36:56,898 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:56,898 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:36:57,902 INFO spawned: 'request-log_01' with pid 123
+2024-06-18 14:36:59,222 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:36:59,223 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:00,225 INFO spawned: 'request-log_01' with pid 126
+2024-06-18 14:37:01,438 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:01,438 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:02,442 INFO spawned: 'request-log_01' with pid 134
+2024-06-18 14:37:03,608 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:03,608 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:04,610 INFO spawned: 'request-log_01' with pid 137
+2024-06-18 14:37:05,770 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:05,771 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:06,773 INFO spawned: 'request-log_01' with pid 140
+2024-06-18 14:37:07,909 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:07,909 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:08,911 INFO spawned: 'request-log_01' with pid 143
+2024-06-18 14:37:10,061 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:10,061 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:11,064 INFO spawned: 'request-log_01' with pid 146
+2024-06-18 14:37:12,201 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:12,201 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:13,203 INFO spawned: 'request-log_01' with pid 149
+2024-06-18 14:37:14,336 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:14,337 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:15,339 INFO spawned: 'request-log_01' with pid 152
+2024-06-18 14:37:16,487 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:16,487 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:17,489 INFO spawned: 'request-log_01' with pid 155
+2024-06-18 14:37:18,625 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:18,625 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:19,628 INFO spawned: 'request-log_01' with pid 158
+2024-06-18 14:37:20,809 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:20,809 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:21,811 INFO spawned: 'request-log_01' with pid 161
+2024-06-18 14:37:22,980 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 14:37:22,980 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-18 14:37:23,982 INFO spawned: 'request-log_01' with pid 164
+2024-06-18 14:37:25,115 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:17:25,143 WARN received SIGQUIT indicating exit request
+2024-06-18 16:17:25,149 INFO waiting for crontab, php-fpm, request-log_01 to die
+2024-06-18 16:17:25,152 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 16:17:25,160 INFO stopped: php-fpm (exit status 0)
+2024-06-18 16:17:25,161 WARN stopped: crontab (terminated by SIGTERM)
+2024-06-18 16:17:26,669 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 16:17:26,685 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 16:17:26,686 INFO supervisord started with pid 1
+2024-06-18 16:17:27,688 INFO spawned: 'crontab' with pid 13
+2024-06-18 16:17:27,690 INFO spawned: 'php-fpm' with pid 14
+2024-06-18 16:17:27,692 INFO spawned: 'request-log_00' with pid 15
+2024-06-18 16:17:28,946 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:17:28,946 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:17:28,946 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:25:24,252 WARN received SIGQUIT indicating exit request
+2024-06-18 16:25:24,259 INFO waiting for crontab, php-fpm, request-log_00 to die
+2024-06-18 16:25:24,262 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 16:25:24,270 INFO stopped: php-fpm (exit status 0)
+2024-06-18 16:25:24,270 WARN stopped: crontab (terminated by SIGTERM)
+2024-06-18 16:25:36,199 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 16:25:36,203 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 16:25:36,204 INFO supervisord started with pid 1
+2024-06-18 16:25:37,205 INFO spawned: 'crontab' with pid 14
+2024-06-18 16:25:37,207 INFO spawned: 'php-fpm' with pid 15
+2024-06-18 16:25:37,208 INFO spawned: 'request-log_00' with pid 16
+2024-06-18 16:25:38,363 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:25:38,363 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:25:38,363 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:42:03,800 WARN received SIGQUIT indicating exit request
+2024-06-18 16:42:03,800 INFO waiting for crontab, php-fpm, request-log_00 to die
+2024-06-18 16:42:03,806 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 16:42:03,815 INFO stopped: php-fpm (exit status 0)
+2024-06-18 16:42:03,816 WARN stopped: crontab (terminated by SIGTERM)
+2024-06-18 16:42:04,792 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 16:42:04,798 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 16:42:04,798 INFO supervisord started with pid 1
+2024-06-18 16:42:05,800 INFO spawned: 'crontab' with pid 14
+2024-06-18 16:42:05,802 INFO spawned: 'php-fpm' with pid 15
+2024-06-18 16:42:05,804 INFO spawned: 'request-log_00' with pid 16
+2024-06-18 16:42:06,973 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:42:06,973 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:42:06,973 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:44:40,121 WARN received SIGQUIT indicating exit request
+2024-06-18 16:44:40,121 INFO waiting for crontab, php-fpm, request-log_00 to die
+2024-06-18 16:44:41,126 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 16:44:41,131 INFO stopped: php-fpm (exit status 0)
+2024-06-18 16:44:41,132 WARN stopped: crontab (terminated by SIGTERM)
+2024-06-18 16:44:42,181 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-18 16:44:42,185 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-18 16:44:42,186 INFO supervisord started with pid 1
+2024-06-18 16:44:43,188 INFO spawned: 'crontab' with pid 13
+2024-06-18 16:44:43,190 INFO spawned: 'php-fpm' with pid 14
+2024-06-18 16:44:43,192 INFO spawned: 'request-log_00' with pid 15
+2024-06-18 16:44:43,193 INFO spawned: 'request-log_01' with pid 16
+2024-06-18 16:44:43,195 INFO spawned: 'truncate' with pid 17
+2024-06-18 16:44:44,358 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:44:44,358 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:44:44,358 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:44:44,358 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 16:44:44,358 INFO success: truncate entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-18 17:12:21,114 WARN received SIGQUIT indicating exit request
+2024-06-18 17:12:21,118 INFO waiting for crontab, php-fpm, request-log_00, request-log_01, truncate to die
+2024-06-18 17:12:21,126 WARN stopped: truncate (terminated by SIGTERM)
+2024-06-18 17:12:21,134 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-18 17:12:21,135 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-18 17:12:21,148 INFO stopped: php-fpm (exit status 0)
+2024-06-18 17:12:21,149 WARN stopped: crontab (terminated by SIGTERM)
+2024-06-19 16:09:15,654 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-19 16:09:15,665 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-19 16:09:15,666 INFO supervisord started with pid 1
+2024-06-19 16:09:16,669 INFO spawned: 'crontab' with pid 6
+2024-06-19 16:09:16,673 INFO spawned: 'php-fpm' with pid 7
+2024-06-19 16:09:16,676 INFO spawned: 'request-log_00' with pid 8
+2024-06-19 16:09:16,678 INFO spawned: 'request-log_01' with pid 9
+2024-06-19 16:09:16,680 INFO spawned: 'truncate' with pid 10
+2024-06-19 16:09:18,102 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:18,102 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:18,102 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:18,102 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:18,102 INFO success: truncate entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:18,102 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-19 16:09:18,102 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-19 16:09:18,103 WARN exited: truncate (exit status 1; not expected)
+2024-06-19 16:09:19,106 INFO spawned: 'request-log_00' with pid 19
+2024-06-19 16:09:19,109 INFO spawned: 'request-log_01' with pid 20
+2024-06-19 16:09:19,113 INFO spawned: 'truncate' with pid 21
+2024-06-19 16:09:19,451 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-19 16:09:19,536 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-19 16:09:20,581 INFO spawned: 'request-log_00' with pid 28
+2024-06-19 16:09:20,584 INFO spawned: 'request-log_01' with pid 29
+2024-06-19 16:09:20,585 INFO success: truncate entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:20,592 WARN exited: truncate (exit status 1; not expected)
+2024-06-19 16:09:20,913 INFO spawned: 'truncate' with pid 34
+2024-06-19 16:09:21,074 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-19 16:09:21,270 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-19 16:09:22,312 INFO success: truncate entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:22,312 WARN exited: truncate (exit status 1; not expected)
+2024-06-19 16:09:23,315 INFO spawned: 'request-log_00' with pid 37
+2024-06-19 16:09:23,317 INFO spawned: 'request-log_01' with pid 38
+2024-06-19 16:09:23,319 INFO spawned: 'truncate' with pid 39
+2024-06-19 16:09:23,992 WARN exited: truncate (exit status 1; not expected)
+2024-06-19 16:09:24,056 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-19 16:09:25,103 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:25,105 INFO spawned: 'truncate' with pid 46
+2024-06-19 16:09:25,105 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-19 16:09:25,360 INFO spawned: 'request-log_01' with pid 49
+2024-06-19 16:09:25,626 WARN exited: truncate (exit status 1; not expected)
+2024-06-19 16:09:26,660 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:26,660 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-19 16:09:27,664 INFO spawned: 'request-log_00' with pid 52
+2024-06-19 16:09:27,666 INFO spawned: 'request-log_01' with pid 53
+2024-06-19 16:09:27,668 INFO spawned: 'truncate' with pid 54
+2024-06-19 16:09:27,955 WARN exited: request-log_00 (exit status 1; not expected)
+2024-06-19 16:09:27,955 INFO gave up: request-log_00 entered FATAL state, too many start retries too quickly
+2024-06-19 16:09:27,966 WARN exited: truncate (exit status 1; not expected)
+2024-06-19 16:09:28,984 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:28,984 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-19 16:09:29,986 INFO spawned: 'request-log_01' with pid 61
+2024-06-19 16:09:31,141 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:09:31,142 INFO spawned: 'truncate' with pid 64
+2024-06-19 16:09:32,325 INFO success: truncate entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:36:02,949 WARN exited: request-log_01 (exit status 1; not expected)
+2024-06-19 16:36:03,955 INFO spawned: 'request-log_01' with pid 214
+2024-06-19 16:36:05,202 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:41:18,629 WARN received SIGQUIT indicating exit request
+2024-06-19 16:41:18,631 INFO waiting for crontab, php-fpm, request-log_01, truncate to die
+2024-06-19 16:41:18,634 WARN stopped: truncate (terminated by SIGTERM)
+2024-06-19 16:41:18,638 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-19 16:41:18,645 INFO stopped: php-fpm (exit status 0)
+2024-06-19 16:41:18,646 WARN stopped: crontab (terminated by SIGTERM)
+2024-06-19 16:41:20,077 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-19 16:41:20,082 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-19 16:41:20,082 INFO supervisord started with pid 1
+2024-06-19 16:41:21,086 INFO spawned: 'crontab' with pid 7
+2024-06-19 16:41:21,091 INFO spawned: 'php-fpm' with pid 8
+2024-06-19 16:41:21,094 INFO spawned: 'request-log_00' with pid 9
+2024-06-19 16:41:21,102 INFO spawned: 'request-log_01' with pid 10
+2024-06-19 16:41:21,105 INFO spawned: 'truncate' with pid 11
+2024-06-19 16:41:22,417 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:41:22,418 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:41:22,418 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:41:22,418 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 16:41:22,418 INFO success: truncate entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 23:04:20,001 WARN exited: request-log_01 (exit status 255; not expected)
+2024-06-19 23:04:20,010 INFO spawned: 'request-log_01' with pid 1970
+2024-06-19 23:04:20,174 WARN exited: request-log_00 (exit status 255; not expected)
+2024-06-19 23:04:20,182 INFO spawned: 'request-log_00' with pid 1973
+2024-06-19 23:04:21,310 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 23:04:21,310 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-19 23:04:22,868 WARN exited: truncate (exit status 255; not expected)
+2024-06-19 23:04:23,880 INFO spawned: 'truncate' with pid 1976
+2024-06-19 23:04:24,993 INFO success: truncate entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-20 05:27:22,925 WARN exited: request-log_01 (exit status 255; not expected)
+2024-06-20 05:27:23,937 INFO spawned: 'request-log_01' with pid 3898
+2024-06-20 05:27:23,938 WARN exited: request-log_00 (exit status 255; not expected)
+2024-06-20 05:27:24,076 INFO spawned: 'request-log_00' with pid 3901
+2024-06-20 05:27:25,189 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-20 05:27:25,196 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-20 05:27:27,635 WARN exited: truncate (exit status 255; not expected)
+2024-06-20 05:27:28,645 INFO spawned: 'truncate' with pid 3904
+2024-06-20 05:27:29,762 INFO success: truncate entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-20 08:00:23,094 WARN received SIGQUIT indicating exit request
+2024-06-20 08:00:23,101 INFO waiting for crontab, php-fpm, request-log_00, request-log_01, truncate to die
+2024-06-20 08:00:23,109 WARN stopped: truncate (terminated by SIGTERM)
+2024-06-20 08:00:23,117 WARN stopped: request-log_01 (terminated by SIGTERM)
+2024-06-20 08:00:23,117 WARN stopped: request-log_00 (terminated by SIGTERM)
+2024-06-20 08:00:23,144 INFO stopped: php-fpm (exit status 0)
+2024-06-20 08:00:23,144 WARN stopped: crontab (terminated by SIGTERM)
+2024-06-20 08:00:24,706 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2024-06-20 08:00:24,710 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2024-06-20 08:00:24,711 INFO supervisord started with pid 1
+2024-06-20 08:00:25,713 INFO spawned: 'crontab' with pid 7
+2024-06-20 08:00:25,715 INFO spawned: 'php-fpm' with pid 8
+2024-06-20 08:00:25,716 INFO spawned: 'request-log_00' with pid 9
+2024-06-20 08:00:25,718 INFO spawned: 'request-log_01' with pid 10
+2024-06-20 08:00:25,720 INFO spawned: 'truncate' with pid 11
+2024-06-20 08:00:26,870 INFO success: crontab entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-20 08:00:26,870 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-20 08:00:26,870 INFO success: request-log_00 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-20 08:00:26,871 INFO success: request-log_01 entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-06-20 08:00:26,871 INFO success: truncate entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)

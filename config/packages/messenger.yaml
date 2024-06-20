@@ -1,0 +1,36 @@
+framework:
+    messenger:
+        # Uncomment this (and the failed transport below) to send failed messages to this transport for later handling.
+        # failure_transport: failed
+
+        transports:
+            # https://symfony.com/doc/current/messenger.html#transport-configuration
+            request_log:
+                dsn: '%env(MESSENGER_TRANSPORT_DSN)%'
+                options:
+                    exchange:
+                        name: request_log
+                    queues:
+                        request_log: ~
+
+            truncate:
+                dsn: '%env(MESSENGER_TRANSPORT_DSN)%'
+                options:
+                    exchange:
+                        name: truncate_table
+                    queues:
+                        truncate: ~
+
+            sync: 'sync://'
+
+        routing:
+             'App\Message\RequestLogBatch\RequestLogBatchMessage': request_log
+             'App\Message\TruncateTable\TruncateTableMessage': sync
+
+# when@test:
+#    framework:
+#        messenger:
+#            transports:
+#                # replace with your transport name here (e.g., my_transport: 'in-memory://')
+#                # For more Messenger testing tools, see https://github.com/zenstruck/messenger-test
+#                async: 'in-memory://'

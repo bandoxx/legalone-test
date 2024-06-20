@@ -1,0 +1,69 @@
+version: '3.8'
+services:
+  apache:
+    container_name: legalone_apache
+    build:
+      context: .
+      network: host
+      dockerfile: ./.docker/apache/Dockerfile
+    ports:
+      - "8080:80"
+    volumes:
+      - ./public:/var/www/html/public:ro
+      - ./.docker/apache/config/vhosts.conf:/etc/apache2/sites-enabled/vhosts.conf:ro
+    depends_on:
+      - php
+  php:
+    container_name: legalone_php
+    build:
+      context: .
+      network: host
+      dockerfile: ./.docker/php/Dockerfile
+    environment:
+      APP_ENV: ${APP_ENV}
+      MYSQL_HOST: mysql
+      MYSQL_PORT: 3306
+    volumes:
+      - .:/var/www/html:rw
+      - ./.docker/php/logs:/app/var/logs:rw
+      - ./.docker/php/conf/supervisord.conf:/etc/supervisor/supervisord.conf:ro
+    depends_on:
+      - mysql
+      - rabbitmq
+  mysql:
+    container_name: legalone_mysql
+    image: mysql:8.0
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./.docker/mysql/data/:/var/lib/mysql:rw
+      - ./.docker/mysql/log/:/var/log/mysql:rw
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: legalone_test
+      MYSQL_PASSWORD: root
+  rabbitmq:
+    container_name: legalone_rabbitmq
+    image: rabbitmq:3.9.5-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    volumes:
+      - ./.docker/rabbitmq/data:/var/lib/rabbitmq/mnesia:rw
+    environment:
+      RABBITMQ_DEFAULT_PASS: legalone
+      RABBITMQ_DEFAULT_USER: legalone
+      RABBITMQ_DEFAULT_VHOST: 'legalone'
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: legalone_phpmyadmin
+    links:
+      - mysql
+    environment:
+      PMA_HOST: mysql
+      PMA_PORT: 3306
+      PMA_ARBITRARY: 1
+    restart: always
+    ports:
+      - "8082:80"
