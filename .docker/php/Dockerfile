@@ -16,8 +16,7 @@ RUN set -eux; \
 RUN apt-get update && apt-get install -y librabbitmq-dev && pecl install amqp
 RUN docker-php-ext-enable amqp
 
-RUN docker-php-ext-install zip
-RUN docker-php-ext-install pdo pdo_mysql
+RUN docker-php-ext-install zip pdo pdo_mysql
 
 RUN php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');" \
     && php composer-setup.php \
